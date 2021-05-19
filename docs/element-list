@@ -4,6 +4,7 @@ ExamFilesBlocked
 ExamFilesUser
 LinearAlgebra
 Options
+Performance
 RandomEnv
 Stocks
-VarianceGammaTest
+Tests

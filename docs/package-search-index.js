@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Analytic"},{"l":"Bonds"},{"l":"ExamFilesBlocked"},{"l":"ExamFilesUser"},{"l":"LinearAlgebra"},{"l":"Options"},{"l":"RandomEnv"},{"l":"Stocks"},{"l":"VarianceGammaTest"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Analytic"},{"l":"Bonds"},{"l":"ExamFilesBlocked"},{"l":"ExamFilesUser"},{"l":"LinearAlgebra"},{"l":"Options"},{"l":"Performance"},{"l":"RandomEnv"},{"l":"Stocks"},{"l":"Tests"}]
